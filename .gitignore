@@ -3,4 +3,4 @@
 /MNIST/
 /prunedModels/
 /base.pth
-
+/__pycache__
