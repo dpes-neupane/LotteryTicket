@@ -1,6 +1,6 @@
-./logs
-./masks
-./MNIST
-./prunedModels
-./base.pth
+/logs/
+/masks/
+/MNIST/
+/prunedModels/
+/base.pth/
 
